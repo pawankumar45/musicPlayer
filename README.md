@@ -12,4 +12,4 @@ This project is a modern music player with a sleek UI designed . It features:
   
 - Fully responsive, adhering to design principles.
 
-- [Project Link](pawandreammusic.onrender.com)
+- [Project Link](https://pawandreammusic.onrender.com)
